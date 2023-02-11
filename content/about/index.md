@@ -1,15 +1,17 @@
 ---
 title: "关于"
-date: 2022-05-16T00:34:56+08:00
+date: 2023-02-11T00:34:56+08:00
 hidden: true
 draft: false
 ---
 
-Web3 Elf，收集Web3的资讯，研究Web3的理念和技术。总之，这里一切均关于Web3。
+爱好宠物的人，构建爱宠的人群交流的集散地。
 
-合作请添加微信：hzwx9001(注明来意)
+毛孩子也要幸福生活，分享养宠、爱宠的知识和经验。
 
-联系邮箱：houqun.me@gmail.com
+请添加微信：hzwx9001(注明来意)
+
+联系邮箱：houqun+abiz@gmail.com
 
 ![微信](/images/hzwx9001.jpg)
 
