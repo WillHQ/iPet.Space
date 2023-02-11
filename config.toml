@@ -42,7 +42,7 @@ pygmentscodefencesguesssyntax = true
   url = "/about/"
 
 [params]
-  subTitle = "All About Web3"                                      	# site's subTitle  # 网站二级标题
+  subTitle = "毛孩子也要幸福生活"                                      	# site's subTitle  # 网站二级标题
   footerSlogan = ""                                    					    # site's footer slogan  # 网站页脚标语
   keywords = ["宠物","狗","猫","宠物经济"]                            # site's keywords  # 网站关键字
   description = "All About Web3"                 	                  # site's description  # 网站描述
