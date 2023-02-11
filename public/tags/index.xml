@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Web3 精灵</title>
+    <link>https://web3elf.com/tags/</link>
+    <description>Recent content in Tags on Web3 精灵</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 10 Jul 2022 21:00:00 +0800</lastBuildDate><atom:link href="https://web3elf.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web3</title>
+      <link>https://web3elf.com/tags/web3/</link>
+      <pubDate>Sun, 10 Jul 2022 21:00:00 +0800</pubDate>
+      
+      <guid>https://web3elf.com/tags/web3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>资源</title>
+      <link>https://web3elf.com/tags/%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Mon, 16 May 2022 11:32:00 +0800</pubDate>
+      
+      <guid>https://web3elf.com/tags/%E8%B5%84%E6%BA%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>区块链</title>
+      <link>https://web3elf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</link>
+      <pubDate>Mon, 16 May 2022 00:37:56 +0800</pubDate>
+      
+      <guid>https://web3elf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

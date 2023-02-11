@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>区块链 on Web3 精灵</title>
+    <link>https://web3elf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</link>
+    <description>Recent content in 区块链 on Web3 精灵</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 16 May 2022 00:37:56 +0800</lastBuildDate><atom:link href="https://web3elf.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web3的一些概念</title>
+      <link>https://web3elf.com/posts/concepts-of-web3/</link>
+      <pubDate>Mon, 16 May 2022 00:37:56 +0800</pubDate>
+      
+      <guid>https://web3elf.com/posts/concepts-of-web3/</guid>
+      <description>&lt;p&gt;整理有关于Web3的一些概念，偏差之处，欢迎指正：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Web3和Web3.0并不是一个概念，Web3.0更多描述的是一个技术层面的概念，而Web3是整个互联网的构架的概念，颠覆了现在所有的Web2的互联网的架构，构建新型的互联网；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Web1：只读Web、静态Web，门户时代的Web的状态；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Web2：可读写的Web、可交互的Web，门户时代之后，直到现在都属于Web2的时代；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Web3：去中心化、发布者所有权的Web，不是Web2的发展，而是对Web2的革命；Web3的世界，不仅是可读写、可交互，更重要的是拥有自己的数据。什么是「拥有」？在链上永久保存数据，任何人可以在链上读取数据，知道这个东西属于谁。任何链上行为可追溯，任何行为在链上永久被记录；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

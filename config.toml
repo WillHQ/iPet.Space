@@ -1,0 +1,74 @@
+baseURL = "https://ipet.space/"
+languageCode = "zh"
+defaultContentLanguage = "zh"
+title = "爱宠空间"                         # site title  # 网站标题
+theme = "zozo"
+hasCJKLanguage = true                  # has chinese/japanese/korean ?  # 自动检测是否包含 中文\日文\韩文
+summaryLength = 100
+paginate = 15                           # shows the number of articles  # 首页显示文章数量
+enableEmoji = true
+googleAnalytics = ""                   # your google analytics id
+disqusShortname = ""                   # your discuss shortname
+
+pygmentsUseClasses = true
+pygmentCodeFences = true
+pygmentscodefencesguesssyntax = true
+
+[author]                               # essential                     # 必需
+  name = "爱宠盒子"
+
+[blackfriday]
+  smartypants = false
+
+[[menu.main]]                          # config your menu  # 配置菜单
+  name = "首页"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "文章"
+  weight = 20
+  identifier = "archive"
+  url = "/posts/"
+[[menu.main]]
+  name = "话题"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "关于"
+  weight = 40
+  identifier = "about"
+  url = "/about/"
+
+[params]
+  subTitle = "All About Web3"                                      	# site's subTitle  # 网站二级标题
+  footerSlogan = ""                                    					    # site's footer slogan  # 网站页脚标语
+  keywords = ["宠物","狗","猫","宠物经济"]                            # site's keywords  # 网站关键字
+  description = "All About Web3"                 	                  # site's description  # 网站描述
+  enableMathJax = true                                              # enable mathjax  # 是否使用mathjax（数学公式）
+  enableSummary = true                                              # display the article summary  # 是否显示文章摘要
+  mainSections = ["posts","post"]
+  
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+[params.valine]
+  enable = false
+  appId = ""
+  appKey = ""
+  placeholder = " "
+  visitor = true
+
+# Your socail's url
+[social]
+  github = " "
+  twitter = "http://twitter.com/shaxlabs"
+  facebook = " "
+  weibo = " "
+  instagram = " "
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
