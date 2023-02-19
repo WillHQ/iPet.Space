@@ -1,15 +1,15 @@
 baseURL = "https://ipet.space"
 languageCode = "en-us"
-title = "A Hugo theme for creating Webslides.js presentations"
+title = "iPet.Space"
 disableKinds = ["sitemap", "RSS"]
 theme = "webslides"
 themesDir = "./themes/"
-tags = ["slide", "presentation", "responsive", "landing page"]
+tags = ["宠物", "社群"]
 features = ["webslides.js", "pre-made template", "shortcodes"]
 
 [params]
-  author = "RCJacH"
-  homepage = "RCJacH.github.io"
+  author = "iPet.Space"
+  homepage = "ipet.space"
 
 
 [params.webslides]
