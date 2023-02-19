@@ -1,9 +1,9 @@
-baseURL = "https://ipet.space"
+baseURL = "https://github.com/rcjach/hugo-webslides.git"
 languageCode = "en-us"
 title = "A Hugo theme for creating Webslides.js presentations"
 disableKinds = ["sitemap", "RSS"]
-theme = "webslides"
-themesDir = "./themes/"
+theme = "hugo-webslides"
+themesDir = "../.."
 tags = ["slide", "presentation", "responsive", "landing page"]
 features = ["webslides.js", "pre-made template", "shortcodes"]
 
